@@ -1,8 +1,5 @@
-npm run dev
-
-# PruebaTecnica01
-React. PRUEBA TÉCNICA de REACT desde CERO con useRef, useMemo y useCallback. 
-https://www.twitch.tv/videos/1732102325
+Buscador de películas
+https://react-buscador-peliculas.vercel.app/
 
 Enunciado
 Crea una aplicación para buscar películas
@@ -26,3 +23,9 @@ API_KEY: 4287ad07
 ✅ Evitar que se haga la misma búsqueda dos veces seguidas.
 ✅Haz que la búsqueda se haga automáticamente al escribir.
 ✅Evita que se haga la búsqueda continuamente al escribir (debounce)
+
+npm run dev
+
+# PruebaTecnica01
+React. PRUEBA TÉCNICA de REACT desde CERO con useRef, useMemo y useCallback. 
+https://www.twitch.tv/videos/1732102325
